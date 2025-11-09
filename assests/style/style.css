@@ -44,6 +44,9 @@ h3 {
 }
 
 /* COMPONENTS */
+.logo {
+  max-width: 149px;
+}
 
 /* MAIN CONTENT */
 .navigation-section {
