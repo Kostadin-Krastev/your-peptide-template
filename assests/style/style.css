@@ -17,7 +17,7 @@
   box-sizing: border-box;
 }
 
-/* COMPONENTS FONT STYLE */
+/* ELEMENTS FONT STYLE */
 h1,
 h2 {
   font-family: var(--secondary-font);
@@ -41,4 +41,11 @@ h2 {
 h3 {
   font-family: var(--main-font);
   font-size: 32px;
+}
+
+/* COMPONENTS */
+
+/* MAIN CONTENT */
+.navigation-section {
+  padding: 0 20px 0 20px;
 }
