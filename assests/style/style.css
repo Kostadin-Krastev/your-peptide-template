@@ -5,3 +5,7 @@
   --dark-color: #212121;
   --white-color: #f5f5f5;
 }
+
+body {
+  font-family: 'Bebas Neue', Poppins, sans-serif;
+}
